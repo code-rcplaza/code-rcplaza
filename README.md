@@ -1,39 +1,31 @@
-### 👋 ¡Hola! Soy rcplaza
+👋 ¡Hola! Soy rcplaza  
 
-Desarrollador frontend con varios años de experiencia construyendo interfaces web atractivas, accesibles y eficientes. Trabajo principalmente con tecnologías como **Vue**, **React**, **TypeScript**.
+**Senior Software Engineer** con más de 7 años de experiencia construyendo aplicaciones web escalables.  
+Me especializo en **frontend** con **React, Vue y TypeScript**, pero también cuento con un **background sólido en backend** con **Node.js y Go**, lo que me permite trabajar con una visión integral de producto.  
 
-Me apasionan los desafíos técnicos, la mejora continua y crear productos que realmente ayuden a las personas. Además, ¡estoy dando mis primeros pasos en el desarrollo de videojuegos!
+Me apasiona la **arquitectura frontend**, la **optimización de interfaces** y la **mentoría de equipos**, con el objetivo de consolidarme como **Tech Lead** en los próximos años.  
 
----
+🧠 Actualmente enfocado en  
+- Liderazgo técnico y mentoría de desarrolladores  
+- Arquitecturas escalables con microservicios  
+- Prácticas de desarrollo seguro y CI/CD  
+- Profundización en Go y entornos cloud (AWS, Docker, Kubernetes)  
 
-### 🧠 Actualmente aprendiendo
+🛠️ Tecnologías y herramientas  
+- **Lenguajes:** TypeScript, JavaScript, Go, HTML5, CSS3  
+- **Frontend:** React, Vue 3, Next.js, Vite  
+- **Backend:** Node.js, Express, Go  
+- **Estilos:** Sass, CSS Modules, SCSS  
+- **Bases de datos:** PostgreSQL, MongoDB, MySQL  
+- **CI/CD y DevOps:** Git, GitHub Actions, Jenkins, Docker  
+- **Testing:** Vitest, Jest, React Testing Library  
+- **Otros:** UX/UI, Figma, Agile  
 
-- Desarrollo de videojuegos con **Godot Engine**
-- Diseño y animación de sprites en 2D
-- Mecánicas de juegos clásicos como **Space Invaders**, **Final Fantasy** o **Dragon Quest**
-- Arquitectura de juegos por turnos
+📫 Cómo contactarme  
+- [LinkedIn](https://www.linkedin.com/in/ricardo-plaza)  
+- ✉️ rcplaza.z@gmail.com  
 
----
-
-### 🛠️ Tecnologías y herramientas que uso
-
-- **Lenguajes**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React, Next.js, Vite
-- **Estilos**: Sass, CSS Modules
-- **Versionado**: Git, GitHub
-- **Herramientas**: VS Code, Figma, ESLint, Prettier
-
----
-
-### 📫 Cómo contactarme
-
-- LinkedIn: [linkedin.com/ricardo-plaza](www.linkedin.com/in/ricardo-plaza-zapata-b0961ab5)
-- Correo: `code.rcplaza@gmail.com`
-
----
-
-### ⚡ Fun facts
-
-- Soy fan de los videojuegos retro 🎮
-- Me encanta aprender nuevas tecnologías
-- A veces diseño mis propios assets para juegos en pixel art.
+⚡ Fun facts  
+- Fanático de **Dungeon & Dragons 🎲** y del **worldbuilding**.  
+- Disfruto experimentar con **side projects** (SaaS, 3D printing, encuadernación).  
+- Siempre aprendiendo y compartiendo sobre desarrollo de software y liderazgo.  
