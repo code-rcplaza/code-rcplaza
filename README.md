@@ -17,20 +17,16 @@
 
 **+7 años** construyendo productos web que escalan. 🚀
 
-Frontend de corazón (**React, Vue, TypeScript**), con buena mano en backend (**Node.js, Go**).
+Frontend de corazón (**React, Vue, TypeScript**), con buena mano en backend (**Node.js, Go**).  
 Hoy programo **codo a codo con la IA** usando **Claude Code** y desarrollo agéntico. 🤖
 
 Me mueve la **arquitectura**, las **interfaces rápidas** y **hacer crecer equipos**. Próxima parada: **Tech Lead**. 🎯
 
 ## 🧠 Actualmente enfocado en
 
-| | |
-|---|---|
-| 🤖 **IA** | Desarrollo agéntico con Claude Code: agentes, MCP y automatización del flujo de trabajo |
-| 🧭 **Liderazgo** | Liderazgo técnico y mentoría de desarrolladores |
-| 🧩 **Arquitectura** | Arquitecturas escalables con microservicios |
-| 🔐 **Calidad** | Prácticas de desarrollo seguro y CI/CD |
-| ☁️ **Cloud** | Profundizando en Go y entornos cloud (AWS, Docker, Kubernetes) |
+Creando **agentes y flujos con MCP** para automatizar mi trabajo. 🤖  
+Profundizando en **Go**, **AWS** y **microservicios**. ☁️  
+Reforzando **desarrollo seguro** y **CI/CD**. 🔐
 
 ## 🛠️ Stack tecnológico
 
@@ -76,7 +72,6 @@ Me mueve la **arquitectura**, las **interfaces rápidas** y **hacer crecer equip
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=code-rcplaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-rcplaza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
